@@ -13,7 +13,5 @@ int main()
     }
     miss = 55 - sum;
     A[temp] = miss;
-
-    printf("%d",A[temp]);
     return 0;
 }
